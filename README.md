@@ -1,10 +1,10 @@
 # PNG Fix Scripts
 
-This repository contains a collection of Python scripts for fixing common issues with PNG images. Whether you need to repair transparency, remove metadata, or resize large PNG files, these scripts can help streamline your workflow.
+This repository contains a collection of Python scripts for fixing common issues with PNG images.
 
 ## Scripts
 
-- `shuffle.py`: Script for fixing transparency issues in PNG images.
+- `shuffle.py`: Script for reordering pixel in PNG images.
 - `tally.py`: Count pixel from PNG images.
 
 ## Usage
